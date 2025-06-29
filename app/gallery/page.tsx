@@ -137,8 +137,8 @@ export default function GalleryPage() {
         />
 
         <GallerySection
-          title="Traditional Wedding"
-          description="Honoring our cultural heritage and family traditions. Celebrating the rich customs that connect our union to generations of love."
+          title="Pre Wedding Shoot"
+          description=" Celebrating the rich customs that connect our union to generations of love."
           images={traditionalWeddingImages}
         />
       </div>
